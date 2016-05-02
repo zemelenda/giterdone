@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4d200f37-4b66-4cf8-90b4-9cc55635015a++8464",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4d200f37-4b66-4cf8-90b4-9cc55635015a++8464" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4d200f37-4b66-4cf8-90b4-9cc55635015a++8464" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B1ACDA43-925E-4A7F-BD7F-8BD5F99B0392",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4d200f37-4b66-4cf8-90b4-9cc55635015a++8464" : "devel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Git Er Done",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "checkout\/giterdone\/Git Er Done\/Git Er Done.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/svn.museami.com\/home\/svnroot",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4d200f37-4b66-4cf8-90b4-9cc55635015a++8464"
+    }
+  ]
+}
